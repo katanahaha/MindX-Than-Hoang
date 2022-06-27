@@ -1,0 +1,24 @@
+1. CSS là gì
+2. Viết CSS ở đâu 
+    1. Inline CSS: viết trong tag
+    2. Internal CSS: <style> thường để trước head tag trên cùng 1 file html
+    3. External CSS: tao file css riêng styles.css sau đó trong file html dùng link tag <link rel="styelsheet" href="styles.css"/>
+3. How? Selector in CSS
+    1. Tag: tag
+    2. Id:#ID
+    3. Class: .class
+4. Đặt ten Theo BEM block element modifier: về nhà tìm hiểu thêm
+5. Màu sắc
+    1. Tên: red, black
+    2. Hexa: #ffff
+    3. RGB: 
+    4. RGBa: 
+6. Thứ tự ưu tiên: (giảm dần)
+    1. !important 
+    2. Inline
+    3. ID
+    4. Class
+    5. Tag
+7. fonts.google.com
+    1. link thì cho vào html trong thẻ head
+    2. import thì cho vào external CSS đầu trang

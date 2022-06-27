@@ -1,0 +1,3 @@
+H1 > h6 (heading) <h1> content </h1>
+Block: H và P width chiếm hết 1 dòng <h>
+Inline: width < block within the line <input type= “text” />
